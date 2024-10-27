@@ -1,5 +1,6 @@
-# Acode plugin
+# Pinch To ZOOM
 
-> For typescript version of plugin template switch this repo to main-ts
+> How to use it? Just put your finger on it and then zoom to increase the fontsize and zoomout to decrease the fontsize.
 
-Read acode plugin [documentation](https://acode.foxdebug.com/plugin-docs) to develop plugin for acode editor.
+
+Do you want it to have another freature or do you notice a bug just message me in my gmail edgardvillones@gmail.com
