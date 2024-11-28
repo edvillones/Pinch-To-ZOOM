@@ -2,7 +2,7 @@
   "id": "acode.pinch",
   "name": "Pinch To ZOOM",
   "main": "dist/main.js",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
