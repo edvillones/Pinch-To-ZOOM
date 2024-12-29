@@ -1,3 +1,5 @@
+![icon](https://raw.githubusercontent.com/edvillones/Pinch-To-ZOOM/refs/heads/main/icon.png)
+
 # Pinch To ZOOM
 
 > How to use it? Just put your finger on it and then zoom to increase the fontsize and zoomout to decrease the fontsize.
