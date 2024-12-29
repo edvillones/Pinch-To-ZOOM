@@ -1,4 +1,6 @@
-![icon](https://raw.githubusercontent.com/edvillones/Pinch-To-ZOOM/refs/heads/main/icon.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/edvillones/Pinch-To-ZOOM/refs/heads/main/icon.png">
+</div>
 
 # Pinch To ZOOM
 
